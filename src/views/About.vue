@@ -108,6 +108,31 @@ export default class About extends Vue {
   }
 
   //生命周期与之前一样直接写就好了--------------------------------------------------------
+  beforeCreate() {
+    
+  }
+  created() {
+    
+  }
+  beforeMount() {
+    
+  }
+  mounted() {
+
+  }
+  beforeUpdate() {
+    
+  }
+  updated() {
+    
+  }
+  beforeDestroy() {
+    
+  }
+  destroyed() {
+    
+  }
+  
 }
 </script>
 
